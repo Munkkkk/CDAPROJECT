@@ -54,20 +54,4 @@ Puis ouvrir `index.html` directement dans votre navigateur ou utiliser une exten
 
 ---
 
-## 🧹 TODO / Améliorations possibles
-
-- Ajouter plus de blagues dans la base de données.
-- Ajouter un système de like/dislike sur les blagues.
-- Ajouter un compteur de blagues affichées.
-
----
-
-## ✨ Remerciements
-
-Merci à Carambar & Co pour leur bonne humeur légendaire !
-
----
-
-## 🎨 Signature
-Made with 💛 and a lot of laughs for Carambar & Co ✨
 
