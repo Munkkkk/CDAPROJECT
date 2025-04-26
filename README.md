@@ -40,8 +40,8 @@ Ce projet est composé de deux parties :
 
 **Backend** :
 ```bash
-git clone https://github.com/Munkkkk/CDAPROJECT.git
-cd CDAPROJECT
+git clone https://github.com/Munkkkk/carambar-back.git
+cd carambar-back
 npm install
 npm run dev
 ```
