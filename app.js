@@ -15,7 +15,7 @@ app.use(cors());
 app.use(express.json());
 
 
-const baseUrl = process.env.BASE_URL || `http://localhost:${PORT}/api`;
+const baseUrl = process.env.BASE_URL || `http://localhost:${PORT}/api/blagues`;
 
 const swaggerOptions = {
   definition: {
